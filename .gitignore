@@ -1,0 +1,28 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build output
+build/
+dist/
+out/
+
+# Dependency managers
+node_modules/
+venv/
+.venv/
+packages/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# IDE specific files
+.vscode/
+.idea/
